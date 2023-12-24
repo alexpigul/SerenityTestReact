@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerenityTestReact.Web", "SerenityTestReact\SerenityTestReact.Web\SerenityTestReact.Web.csproj", "{72D66E14-869C-41E0-BA5A-5557B50FC39C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72D66E14-869C-41E0-BA5A-5557B50FC39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D66E14-869C-41E0-BA5A-5557B50FC39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D66E14-869C-41E0-BA5A-5557B50FC39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D66E14-869C-41E0-BA5A-5557B50FC39C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61D26434-948C-45CB-8E79-5BD6CE4373B6}
+	EndGlobalSection
+EndGlobal
